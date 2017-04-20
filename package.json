@@ -11,7 +11,7 @@
     "test": "mocha test/index.js"
   },
   "engines": {
-    "node": "~0.6.2"
+    "node": ">=0.6.2"
   },
   "dependencies": {
       "jade" : "0.19.x"
