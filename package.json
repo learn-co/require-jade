@@ -14,13 +14,13 @@
     "node": ">=0.6.2"
   },
   "dependencies": {
-      "jade" : "0.19.x"
+    "jade": "^1.11.0"
   },
   "devDependencies": {
-      "browserify" : "1.8.x",
-      "express" : "2.5.x",
-      "mocha" : "0.7.x",
-      "should" : "0.4.x"
+    "browserify": "1.8.x",
+    "express": "2.5.x",
+    "mocha": "0.7.x",
+    "should": "0.4.x"
   },
-  "browserify" : "runtime.js"
+  "browserify": "runtime.js"
 }
