@@ -14,7 +14,7 @@
     "node": ">=0.6.2"
   },
   "dependencies": {
-    "jade": "^1.11.0"
+    "jade": "0.35.0"
   },
   "devDependencies": {
     "browserify": "1.8.x",
